@@ -20,7 +20,7 @@ test_requirements = [
 
 setup(
     name='cinder_auths',
-    version='0.1.0',
+    version='0.1.1',
     description="Cinder Authentication Examples",
     long_description=readme + '\n\n' + history,
     author="Gorka Eguileor",
